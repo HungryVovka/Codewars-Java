@@ -31,7 +31,7 @@
 // * 'L', [1, 4, 5, 3, 5 ]  ->  [5, 5, 4, 3, 1]
 // -----------------------------------------------------------
 
-import java.util.Arrays;
+import java.util.Arrays;	// copyOf, sort
 
 public class Kata {
   public static int[] flip(char dir, int[] arr) {
